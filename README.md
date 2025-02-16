@@ -25,7 +25,6 @@ Welcome! This guide will help you set up your environment, complete the activiti
 ---
 
 ## 2. Activities
-
 ### Overview
 Before diving into the project exercises, it's essential to complete the activities. These activities are designed to familiarize you with the basics of Jupyter Notebook and Matplotlib.
 
@@ -42,8 +41,7 @@ Before diving into the project exercises, it's essential to complete the activit
 
 ---
 
-## 3. Exercises on Matplotlib
-
+## 3. Exercises on Matplotlib 
 ### Overview
 The src folder contains a set of exercises related to Matplotlib. These exercises build on the skills you developed in the activities and are meant to test your understanding and creativity.
 
